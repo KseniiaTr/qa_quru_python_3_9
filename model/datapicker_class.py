@@ -1,8 +1,5 @@
-import datetime
 
 from selene.support.shared import browser
-
-import config
 
 
 class Datepicker:

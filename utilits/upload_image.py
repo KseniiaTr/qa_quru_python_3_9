@@ -1,9 +1,7 @@
 import os
-from importlib import resources
 
 from selene.support.shared import browser
 
-import tests
 
 
 class Image:
